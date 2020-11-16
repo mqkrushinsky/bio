@@ -60,10 +60,10 @@ function Writing() {
                     </div>
                     <br />
                     <p>
-                        A hero's quest to uncover the truth of a global extinction event.
+                        A college student's quest to uncover the truth of a global extinction event.
                     </p>
                     <p className="mb-5">
-                        Due to be completed 2020.
+                        Completed 2020.
                     </p>
                 </div>
             </div>
